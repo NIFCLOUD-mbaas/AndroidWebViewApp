@@ -14,9 +14,9 @@
 
 ## 動作環境
 
-* MacOS Big Sur 11.6 
-* Android Studio Arctic Fox 2020.3.1
-* Pixle 3 - Android 12 (Simulator)
+* MacOS Monterey version 12.5
+* Android Studio Chipmunk | 2021.2.1 Patch 2
+* Pixel 2 - Android 13 (Simulator)
 * SDK v2系だと動作しないので注意
 
 ※上記内容で動作確認をしています。
@@ -79,7 +79,7 @@
 
 ### 4. Android Studioでアプリを起動
 
-* AndroidStudioを開いて、「Open an existing Android Studio project」から、ダウンロードして解凍したプロジェクトを選択します
+* AndroidStudioを開いて、「Open」から、ダウンロードして解凍したプロジェクトを選択します
 
 ![画像8-1](/readme-img/android_project_open.png)
 
